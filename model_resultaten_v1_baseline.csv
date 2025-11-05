@@ -1,0 +1,8 @@
+Model,R²,RMSE,Versie,Datum
+Lineaire Regressie,0.0234,19.8,v1_baseline,31-10-2025 17:39
+Decision Tree Regressor,-0.119,21.19,v1_baseline,31-10-2025 17:39
+Random Forest,0.067,19.35,v1_baseline,31-10-2025 17:39
+Ridge,0.0234,19.8,v1_baseline,31-10-2025 17:39
+Lasso,0.0234,19.8,v1_baseline,31-10-2025 17:39
+ElasticNet,0.0234,19.8,v1_baseline,31-10-2025 17:39
+DummyRegressor (mean),-0.0,20.03,v1_baseline,31-10-2025 17:39
